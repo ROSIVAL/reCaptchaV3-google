@@ -1,8 +1,6 @@
 <?php
 define('SITE_KEY', '6LdQFJsUAAAAAItR0HN5PzXPTsgWL3pZLqJZLpSO');
 define('SECRET_KEY', '6LdQFJsUAAAAAFyweW66_X8GoYysjA-2lYBK1EEa');
-// define('SITE_KEY', '6LcEFZsUAAAAAOzQ1qTv54od5EpmT25vMff7S9xK');
-// define('SECRET_KEY', '6LcEFZsUAAAAADA4T_UqqYWWuLFzwNF9L1-lPmP_');
 ?>
 
 <!DOCTYPE html>
