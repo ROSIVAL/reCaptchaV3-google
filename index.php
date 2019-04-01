@@ -1,6 +1,8 @@
 <?php
 define('SITE_KEY', '6LdQFJsUAAAAAItR0HN5PzXPTsgWL3pZLqJZLpSO');
 define('SECRET_KEY', '6LdQFJsUAAAAAFyweW66_X8GoYysjA-2lYBK1EEa');
+
+// teste
 ?>
 
 <!DOCTYPE html>
